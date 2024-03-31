@@ -23,8 +23,8 @@
 
 <p align="left">
 
-<a href="https://www.codechef.com/users/devgoyalg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devgoyalg" height="30" width="40" /></a>
-<a href="https://leetcode.com/devgoyalg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devgoyalg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ujjawal_p_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujjawalps" height="30" width="40" /></a>
+<a href="https://leetcode.com/ujjawal_p_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjawalps" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devgoyalg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devgoyalg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ujjawalps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ujjawalps" height="30" width="40" /></a>
 
@@ -51,7 +51,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/DevGoyalG">
+<a href="https://github.com/Ujjawalps">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ujjawalps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ujjawalps&layout=compact&langs_count=8&theme=algolia"/>
 </a>
