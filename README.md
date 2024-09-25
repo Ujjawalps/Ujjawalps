@@ -11,7 +11,11 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
+
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+
 <p align="left">
+
   
 <a href="https://www.linkedin.com/in/ujjawal-pratap-singh-355961255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ujjawalps" height="30" width="40" /></a>
 <a href="https://twitter.com/Ujjawal_p_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ujjawalps" height="30" width="40" /></a>
