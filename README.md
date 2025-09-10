@@ -45,7 +45,11 @@ const Ujjawal = {
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ujjawal.p.s/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/ujjawalps/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reddit.svg?color=FF4500" alt="Reddit" height="40"/>
+</a>
+  
 </p>
 
 ---
